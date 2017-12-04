@@ -1,0 +1,8 @@
+{
+  "author" : "Cyel",
+  "description" : "Re-enables forced walk when going backward\nhttp://community.playstarbound.com/threads/re-enable-slower-backwards-movement.130012/",
+  "friendlyName" : "Slower Backward Movement",
+  "name" : "slowerbackwardmovement",
+  "version" : "1",
+  "includes" : ["modressourcespeciesstatuseffect"]
+}

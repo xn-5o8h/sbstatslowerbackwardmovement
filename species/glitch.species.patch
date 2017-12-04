@@ -1,0 +1,11 @@
+[
+	[
+		{ "op": "test", "path": "/statusEffects" }, 
+		{ "op": "add", "path": "/statusEffects/-", "value": "backwardslowdown" }
+	],
+
+	[
+			{ "op": "test", "path": "/statusEffects", "inverse" : true },
+			{ "op": "add", "path": "/statusEffects", "value": [ "backwardslowdown" ] }
+	]
+]
